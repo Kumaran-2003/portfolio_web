@@ -3,8 +3,8 @@
 import type { Site, SocialMediaObjects } from "./types";
 
 export const SITE: Site = {
-    siteUrl: "https:/astro-lane.chrstnl.com/", // Always put "/" at the end of the URL
-    author: "chrstnl",
+    siteUrl: "https://kumaran.vercel.app/", // Always put "/" at the end of the URL
+    author: "kumaran",
     desc: "A personal portfolio landing template for developers and designers.",
     title: "Gnanasambandam",
     ogImage: "images/astro-lane.png",
